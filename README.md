@@ -1,4 +1,4 @@
-# Gnosis
+# Gnosis Project
 
 > Platform analitik data berbasis web modern untuk ekstraksi berita/tren otomatis, pemrosesan data, visualisasi grafik interaktif, dan wawasan AI *real-time*.
 
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Gambaran Umum (Overview)
-**Gnosis** adalah aplikasi *End-to-End Data Pipeline* yang dirancang untuk menarik data teks/artikel secara otomatis dari berbagai portal web berita di Indonesia (Teknologi, Keuangan, Olahraga, hingga Tren Nasional), membersihkannya, menyimpannya ke dalam basis data relasional, serta menyajikannya dalam bentuk dashboard interaktif yang elegan.
+**Gnosis Project** adalah aplikasi *End-to-End Data Pipeline* yang dirancang untuk menarik data teks/artikel secara otomatis dari berbagai portal web berita di Indonesia (Teknologi, Keuangan, Olahraga, hingga Tren Nasional), membersihkannya, menyimpannya ke dalam basis data relasional, serta menyajikannya dalam bentuk dashboard interaktif yang elegan.
 
 ---
 
